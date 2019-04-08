@@ -1,2 +1,2 @@
-print("hello, world")
-print("hello, world")
+print("원기 어느정도 진행됨 ? ")
+print("원기 언제 쯤 완료 될 예정 ? ")
